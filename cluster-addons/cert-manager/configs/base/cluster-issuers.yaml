@@ -6,7 +6,7 @@ metadata:
 spec:
   acme:
     # Replace the email address with your own contact email
-    email: fluxcdbot@users.noreply.github.com
+    email: jiglaumihai@gmail.com
     privateKeySecretRef:
       name: letsencrypt-nginx
     solvers:
